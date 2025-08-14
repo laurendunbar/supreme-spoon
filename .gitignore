@@ -1,0 +1,26 @@
+# R-specific
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rproj
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.rds
+*.feather
+*.parquet
+
+# Environment files
+.env
+.venv/
+venv/
